@@ -5,5 +5,5 @@
 除了舌毒嘴贱手残，没啥别的优点。
 
 * 大部分时间混迹在[推特](https://twitter.com/LordDoomed)
-* 这有个适合小学生的[算术试卷生成器](https://lorddoomed.github.io/Arith/)
+* 这里有个(为了哄娃的)算术试卷生成器[Arith](https://lorddoomed.github.io/Arith/)
 * 偶尔随手涂鸦练习[涂毒](https://trello.com/b/T4KHl7UF)
